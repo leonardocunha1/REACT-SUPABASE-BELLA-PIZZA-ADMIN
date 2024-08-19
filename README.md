@@ -2,6 +2,8 @@
 
 **Bella Pizza - ADMIN** é um site que administra uma pizzaria fictícia e oferece uma boa experiência de gestão de pedidos e produtos. Desenvolvido com React.js, Supabase, Tailwind CSS e várias outras tecnologias, este projeto proporciona uma interface interativa e moderna.
 
+## [Clique aqui para visitar o vídeo do projeto](https://www.linkedin.com/feed/update/urn:li:activity:7230997029462659073/)
+
 > [!IMPORTANT]
 > Infelizmente este site não ficará disponível para acesso, pois basicamente ele tem acesso ao "CRUD" do banco de dados.
 
